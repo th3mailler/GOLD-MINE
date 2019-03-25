@@ -28,12 +28,15 @@
 -https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment
 
 #windows eploit
+-https://www.prodefence.org/a-little-guide-to-smb-enumeration/?fbclid=IwAR0zi10rUUoPBSfGlPA7OmGQXJRW07IOUn3k0XyyX63hVr_0GnGZvTiYlCY
 -https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
 
 #windows active directory
 -https://www.slideshare.net/rootedcon/carlos-garca-pentesting-active-directory?fbclid=IwAR3AWoY0ewoV4H-t0Troy_HtuI6Begy2aGpzKns9_Nfawzt1CcHPEJ9thnk
 -https://github.com/infosecn1nja/AD-Attack-Defense?fbclid=IwAR1Q1nf4tkY3OxhNU8VzAbdDPNASffMuhmfx3IdemN2h5nVqNRj2leh-f8A
 -https://github.com/byt3bl33d3r/DeathStar?fbclid=IwAR2BsthMpmXbXdW_byc-ap7wYp84IMW4t2WB0HRp7Icb6pkwu9um2IRlfug
+-https://www.prodefence.org/active-directory-penetration-testing-checklist/?fbclid=IwAR2fltKMYqN-_bBK6eTU5OzULx9vIyFLGc0SA-nnxLmRI9HwMIgNnNQKLOg
+-https://www.prodefence.org/bloodhound-v2-0-5-released-active-directory-toolkit/?fbclid=IwAR22U2C_h-Up6yz55cZWJ-sok3yh_mXBGkVe3pu7B-k2hFEe6XVYA6LZILM
 
 #SQL injection
 -http://securityidiots.com/Web-Pentest/SQL-Injection/Part-1-Basic-of-SQL-for-SQLi.html?fbclid=IwAR2SxFy1jYBEr0GL_L3p_mSivlka-wFp73u0UOwb98JfPGabeFN9Oj8YjjA
@@ -47,10 +50,16 @@
 -https://wpa-sec.stanev.org/?submit&fbclid=IwAR14cLPiAsWfKLj7NLw_5lYHOWn3-lr5lVf6X66DpRsA8ltNBSf45NhzCBk
 -https://gbhackers.com/wireless-penetration-testing-checklist-a-detailed-cheat-sheet/?fbclid=IwAR0Ezy1Lon0Ef2AfyYH-oZ-WoCAG1KBu2UxSfZVJkD_Usi2QN-cql1MS_iQ
 
+#voip
+-https://securityonline.info/sippts/?fbclid=IwAR0-wNU8W4LUToL3RbDJA4MEZ6f1-Oq0BSqlikVmIorl79qT0MbetGfSt5k
+
 #malware analysis
 -https://docs.google.com/presentation/d/14nHfy7iEhVd7qA-i4-8kT_mnudT2phKNO7RE34AiEho/present?fbclid=IwAR0DlG5EzpJAVBQK7gMgO9iK_IcbNhTaD24e9srHGmOCbU36DgHFvBWhHCs#slide=id.p
 -https://gbhackers.com/most-important-tools/
 -https://github.com/rshipp/awesome-malware-analysis?fbclid=IwAR1AQzGSV2VaC25mPK9ILlqXLhixJdzFqbnPGfpripf96p9gkJQS7tA5_bE
+-https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/?fbclid=IwAR3giNTn-0LEBnX2lsgIgiVMKeGrJjYfC0fLj_HQn38ZGyyCFCpm_JuJyi0
+-https://0x00sec.org/t/anti-forensic-and-file-less-malware/10008?fbclid=IwAR0etAl90lfep0swF4oYFeSYqWS-y1DAl8LOvxoM-ppW01rr69ZpBjycWAY
+-https://0ffset.net/miscellaneous/how-to-get-started-with-malware-analysis/?fbclid=IwAR3Acz5aPfOboyXjAYy8IWWkX9oeHgyK0lRVen_wjrNkrqSbjS33-ZjNSk4
 
 #burpsuite
 -https://kalilinuxtutorials.com/burpsuite/?fbcli=IwAR3jFaR1WRAnpqR7ipXdvg7kQRLyCL3wSNnzZK1iPaJsGjLEs5k7hlWTTMs
@@ -78,7 +87,8 @@
 -https://thor-sec.com/review/oscp/oscp_review/?fbclid=IwAR1Yuzuj_lB7SqYLJ28i-KWGlPssSZpmrKYVsPef_3gXgDnM0717sNzMVZg
 -https://guif.re/?fbclid=IwAR1-vQsPeD97FJu6h-0gB9x1Gi2UgHhJlWl9rSlJT0zbvsgW7oECyxepCY4
 -https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/?fbclid=IwAR2PDO6B7jQXayS0vWr064bXJPcswuuj37VtCf2sHZ_I6Ss-KLouWaAA5r0
-
+-https://paper.dropbox.com/doc/OSCP-Methodology-EnVX7VSiNGZ2K2QxCZD7Q
+-https://github.com/mohitkhemchandani/OSCP-Complete-Guide?fbclid=IwAR061y9Sn7qFpv0Lyn8NCPfAagxD1xbcq8-zWnj0S7StQk8SNBJiRLKwnHI
 
 #CTF 
 -https://mrt
@@ -91,6 +101,7 @@
 -https://uptusuccess.com/download-paid-udemy-courses-for-free/amp/?fbclid=IwAR0TU4ylkBxpyOtiGTQT3uN25183bAyEkCw_R3QxDhx18Sa_BW5WSE1Fz7Q
 -https://hackingvision.com/2018/03/15/hacking-books-pdf-collection-2018/?fbclid=IwAR1MIWPL_u9e1UWl2o_T4jgWAoO8xpPdSqGypCLD-8S-qIt43Be-Url-0Es
 -https://github.com/robertcanare/Study-File
+-https://comindt.blogspot.com/2019/01/linux-book-4.html?fbclid=IwAR2m-HmW5Nq5nu2wpeg73tTdrOxUPemzJGDO1KUVkWfhsPvOaKHVxn2AY-w
 
 #ethical hacking free courses
 -https://mega.nz/?fbclid=IwAR28CDUlL44S0jKSViOL2A3TTj5XlJxbgrMu25xqN795EHq3J0vHU2VLfFo#F!BtZAjJIR!nek_MMo14Z_3_D_OLT5hsw
@@ -157,3 +168,9 @@
 
 #cloud computing
 -https://gbhackers.com/cloud-computing-penetration-testing-checklist-important-considerations/?fbclid=IwAR3EXRITGAaNNuXJpLtp-ysPk04eRKkdOYmcb8Vfa48OgEdEuQg_meHIz8s
+
+#incident responce
+-https://gbhackers.com/cyber-incident-response-tools/?fbclid=IwAR2VUKIhalrJ1iCpY8_w64mI-SYZbWLQsK7vJj_xrCQcbZ247XCRbskMwy8
+
+#mobile hacking
+-https://gbhackers.com/android-penetration-android-checklist/
