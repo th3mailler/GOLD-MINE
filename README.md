@@ -36,6 +36,7 @@
 -https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
 
 #windows active directory
+-http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/?fbclid=IwAR3wMtmiZxPU9wiEerLH79Y05Xx_UAgQvqxhILtQ7rUE4GPjbOW8D6qkuPc
 -https://www.slideshare.net/rootedcon/carlos-garca-pentesting-active-directory?fbclid=IwAR3AWoY0ewoV4H-t0Troy_HtuI6Begy2aGpzKns9_Nfawzt1CcHPEJ9thnk
 -https://github.com/infosecn1nja/AD-Attack-Defense?fbclid=IwAR1Q1nf4tkY3OxhNU8VzAbdDPNASffMuhmfx3IdemN2h5nVqNRj2leh-f8A
 -https://github.com/byt3bl33d3r/DeathStar?fbclid=IwAR2BsthMpmXbXdW_byc-ap7wYp84IMW4t2WB0HRp7Icb6pkwu9um2IRlfug
@@ -78,6 +79,7 @@
 -https://neonsea.uk/blog/2018/08/01/hikvision-keygen.html?fbclid=IwAR3JFE3aShDT-eLQHcX8ArYbJJQG2VG7ANrTv_OBIrqPuPJ1f5d2x4kSBik
 
 #buffer overflow
+-https://0xrick.github.io/binary-exploitation/bof3/?fbclid=IwAR18BNgHyRfLzgP_Pf-fqkODA9sLmWqcsjN_Z5UZzzzHNO4WdFV2IDj9Cow
 -https://blog.own.sh/introduction-to-network-protocol-fuzzing-buffer-overflow-exploitation/?fbclid=IwAR07sL_cgaRhj9SELba9ViZNG6YRz2mbELKvmtaNcfJoiIhWIX9X3S3FUEY
 -https://blog.own.sh/introduction-to-network-protocol-fuzzing-buffer-overflow-exploitation/?fbclid=IwAR07sL_cgaRhj9SELba9ViZNG6YRz2mbELKvmtaNcfJoiIhWIX9X3S3FUEY
 -https://www.youtube.com/watch?v=e059hzzg3Zo&feature=youtu.be&fbclid=IwAR3--qoCiPqjESBYzSruPL8uFJMYRfRufWye49jogJshoG44g07M-B43ZAM
@@ -137,6 +139,7 @@
 -https://0xrick.github.io/lists/stego/?fbclid=IwAR3YCShRT6XOQSbky1H36XBexeaAncFPtSc0VoMOZOp2JK9YcqPy76tNAy4
 
 #penetration testing
+-https://github.com/trimstray/the-book-of-secret-knowledge?fbclid=IwAR1n6pErXQ8oGnZu2SRR1lCwtRvaZR04kJADWSgP0L9nAQGBpFfi5jxnYU0
 -https://www.linkedin.com/pulse/how-break-penetration-testing-lawrence-munro/?fbclid=IwAR2QTXANG0VhDKwNpdeOtKAPAueHCAg4c-fwrWYTNxGwTgoKAzBjTQDjIKQ
 -https://github.com/enaqx/awesome-pentest?fbclid=IwAR1q5yN4WfB_5brIldL1LY2fRD0O9iECZ0KEsDotaLtJ5fk9Qx3QyqyopDQ
 -https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/?fbclid=IwAR1GLvx8Cr8A7NYwpPRE5CKkSD6vKFLsuNgEUYaPUFSZZVJkrL0rxIxBe94
@@ -179,6 +182,7 @@
 -https://netsec.ws/?p=331&fbclid=IwAR3D_du_PKB0E0dB_M3BobttN3YzLUV5ae1I1kjpjfbGZlLuF0o2oZN7BnU
 
 #red teaming
+-https://ired.team/offensive-security-experiments/offensive-security-cheetsheets?fbclid=IwAR2zRgWIEdc59DWQNCehtw3HEEaJyfy9HBFmcJqllaglkHUaD2n6xpScRAk
 -https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17?fbclid=IwAR0-ynimomdYAUx6MSA293GwRTJfHaYulsfnFlKVmCILeYjHoyVKdP33U1g
 -https://github.com/yeyintminthuhtut/Awesome-Red-Teaming?fbclid=IwAR1oxHbvqs6E2VwVwJjsMzRn9ln_faA5mJ-KwFYEBlPhhKRBpL7slAkZ1R4
 -https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md?fbclid=IwAR3eenVGF-dCquu4WhgM3sQ7Q-MDujEq-CRxw-TsGxu4mlm6tqdFLIhkCaQ
