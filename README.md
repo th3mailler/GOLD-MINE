@@ -4,7 +4,7 @@
 
 
 #linux privilege escaltion
--https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR1n1cs1dBadliOVI4iO7po3WmgS8hP4kBBGDXCl-ozy0F7tCOM5QAGOa4M
+-https://gtfobins.github.io/?fbclid=IwAR1bDDxPEW_hCuc7NEIdrOGZQeXGF1d3IowpoSgafYvkSgSGSjuu1bFimPg
 -https://www.exploit-db.com/exploits/44298/?fbclid=IwAR3WLH81B-zz7NeMdCVhAg_y7pv_iwCMuqbjnWpaFXRatQwoNFuqcMK-9a8
 -https://guif.re/linuxeop?fbclid=IwAR1S2fxnHcMyTuOZFYoZb55AJmHQ-MYTuOQpPsJFotW7HvmKRqpf7Ml9wTM
 -https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
@@ -18,6 +18,9 @@
 -https://latesthackingnews.com/2018/12/12/privilegeesc-linux-open-source-script-for-enumeration-on-linux/?fbclid=IwAR2r8kyTgDtO8SfadJvx7sJdE92zmsMeqY56ZDptKhQdtKtiawDoREnAecE
 
 #windows privilege escalation
+-https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR1n1cs1dBadliOVI4iO7po3WmgS8hP4kBBGDXCl-ozy0F7tCOM5QAGOa4M
+-https://www.prodefence.org/multiple-ways-to-exploiting-windows-pc-using-powershell-empire/?fbclid=IwAR2dIQ6XA_9DRq9MM7HnmNtwF2S3R2NuRs77qE3lZtwa8XxN5yTInewQbCo
+-https://www.youtube.com/watch?v=9pwMCHlNma4&feature=youtu.be
 -https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/?fbclid=IwAR39P6CyPdcb67Cs8BtU6afQpeLREUtRw_DAsqEjnjjDv5t0kYNBQkM4aVs
 -https://github.com/hausec/ADAPE-Script/tree/master?fbclid=IwAR0Rknful54lmO7gfM59yksrjSPYeLMmDsQyulz_EaFiZlXlHAZAaMWHjZQ
 -https://github.com/OneLogicalMyth/zeroday-powershell?fbclid=IwAR3H7rHz-R2omfIVycOBAJ0S66atEWlhBCc3cJX65l6kxadCPgPMcXs7vsY
@@ -28,6 +31,7 @@
 -https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment
 
 #windows eploit
+-https://lolbas-project.github.io/?fbclid=IwAR1ATzHrj4irpV_DPldBiglF2pE7Cnb6mO7J2jFbehWGy1ROCH7wLpvCv_E#
 -https://www.prodefence.org/a-little-guide-to-smb-enumeration/?fbclid=IwAR0zi10rUUoPBSfGlPA7OmGQXJRW07IOUn3k0XyyX63hVr_0GnGZvTiYlCY
 -https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
 
@@ -38,6 +42,7 @@
 -https://www.prodefence.org/active-directory-penetration-testing-checklist/?fbclid=IwAR2fltKMYqN-_bBK6eTU5OzULx9vIyFLGc0SA-nnxLmRI9HwMIgNnNQKLOg
 -https://www.prodefence.org/bloodhound-v2-0-5-released-active-directory-toolkit/?fbclid=IwAR22U2C_h-Up6yz55cZWJ-sok3yh_mXBGkVe3pu7B-k2hFEe6XVYA6LZILM
 -https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/?fbclid=IwAR2JTXDwZ99sl9Dx0InaVnP73uJpY9CvSQ6orfIjwoaXUGudMRQ7Ya9PE2Q
+-https://github.com/Ridter/Exchange2domain?fbclid=IwAR3LvhEVqUn_cqyj9DdMvYAPUkEomuXWKI2FX1jVcgXf5tpwb2MYt3Rx6kM
 
 #SQL injection
 -http://securityidiots.com/Web-Pentest/SQL-Injection/Part-1-Basic-of-SQL-for-SQLi.html?fbclid=IwAR2SxFy1jYBEr0GL_L3p_mSivlka-wFp73u0UOwb98JfPGabeFN9Oj8YjjA
@@ -46,6 +51,7 @@
 -https://gbhackers.com/sqlmap-detecting-exploiting-sql-injection/?fbclid=IwAR35PJlLeYpSOWxuTUhJlzJjDtGkSOkOh4uv0s7plowVkkqNF2ELqa04pc4
 
 #wireless penetration
+-https://github.com/s0lst1c3/eaphammer/blob/master/README.md?fbclid=IwAR1kP9vP_ROcyQLCDQgIiQTvKXRF_xeMMw7e_xSBYNVlFW-3YrbFaLPF_Vk
 -https://www.prodefence.org/ht-wps-breaker-high-touch-wps-breaker/?fbclid=IwAR3d4IV6wRHoGuN5e53F7HxpPnuQtS24lDk1ATE71IGSdi3464IhPuJfxu0
 -https://www.udemy.com/wifi-hacking-from-a-penetration-testers-perspective/?couponCode=FINAL_FB_GIVEAWAY&fbclid=IwAR0rUXuZiZOGyZEjF1A-MDIZsSLrzmkEzjlBULd2Wkd_bGASx3UiFe9G26c
 -https://gbhackers.com/wireless-penetration-testing-checklist-a-detailed-cheat-sheet/?fbclid=IwAR37j40vqsPTrsd9EIudKNKrewVFMX-TjR8wNwVu4V9qYt5EfkFMp7WdwbQ
@@ -72,6 +78,8 @@
 -https://neonsea.uk/blog/2018/08/01/hikvision-keygen.html?fbclid=IwAR3JFE3aShDT-eLQHcX8ArYbJJQG2VG7ANrTv_OBIrqPuPJ1f5d2x4kSBik
 
 #buffer overflow
+-https://blog.own.sh/introduction-to-network-protocol-fuzzing-buffer-overflow-exploitation/?fbclid=IwAR07sL_cgaRhj9SELba9ViZNG6YRz2mbELKvmtaNcfJoiIhWIX9X3S3FUEY
+-https://blog.own.sh/introduction-to-network-protocol-fuzzing-buffer-overflow-exploitation/?fbclid=IwAR07sL_cgaRhj9SELba9ViZNG6YRz2mbELKvmtaNcfJoiIhWIX9X3S3FUEY
 -https://www.youtube.com/watch?v=e059hzzg3Zo&feature=youtu.be&fbclid=IwAR3--qoCiPqjESBYzSruPL8uFJMYRfRufWye49jogJshoG44g07M-B43ZAM
 -https://www.youtube.com/watch?v=gJXoqEFNOcs&feature=youtu.be&fbclid=IwAR2uc2Zm7gJmet7N5QzfRQSOBAiKYGqSMtdaBpLdiHnQz3XEfycQunXAJkA
 -https://www.youtube.com/watch?v=r_ml1j9k-Gk&feature=youtu.be&fbclid=IwAR0O7K7A_wdE6YQDRnNz6jXUTMl-wJlH74NtDyMghKWErokJbHQO6nQWxls
@@ -83,6 +91,18 @@
 -https://stacktrac3.co/vulnserver-write-up/?fbclid=IwAR1ytECmHB9QZZTochAt9YVMBKge43ifX1Q9PxlCPahP1dOQEXAU-RnPZgE
 
 #OSCP notes
+-https://cyb3rsick.com/2019/01/20/oscp-exam-writeups-introduction/?fbclid=IwAR0tq8LrW955079Ac5fXRP792t-MvJGkTlZvjO5j84X6NUCxHQShVRm3vcE
+-https://github.com/slyth11907/Cheatsheets?fbclid=IwAR0aOTSrCCZZe7q4_m-XNviKnu9o2TkFR50Z2GKFnSSo1rtugtjj0w3UszQ
+-https://www.jscybersec.io/blogpage/Offensive-Security-Certified-Professional?fbclid=IwAR2gSCcEU1RXflPeus08SBJQlxO4Yn_D8uLg5B7MHRskUdWKxenYAKKBEs0
+-https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440?fbclid=IwAR30YzWzYbZt4FHEzbJbEo9MadarABUez6sLFue2SP3wDT32oXw0evopEdo
+-https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html?fbclid=IwAR3ASJhuElYv7iw7dpLjiRQEBMV9llYjIwL7YUVEtQLEQo2J9UPspt4Hu4Y#commands
+-https://github.com/s0wr0b1ndef/OSCP-note?fbclid=IwAR3i01n33Y8rxLrU98oBirsvCqmO_pxIWyBLkoicnYyh7W1aBLFaKkrjCEg
+-https://github.com/areyou1or0/OSCP?fbclid=IwAR0f-uWoDgs9w-ZlAS4p5yfANz-iNhxEYiqYh8LyvODJLSdglR6YFBkSDiU
+-https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR1n1cs1dBadliOVI4iO7po3WmgS8hP4kBBGDXCl-ozy0F7tCOM5QAGOa4M
+-https://www.secjuice.com/oscp-prep-guidance/?fbclid=IwAR02FTJVI1GRoOv9rxGhk20qczVJeuwgL65Xyg06E03WGQU6MBCy3vSJDK0
+-https://acknak.fr/en/articles/oscp-tools/?fbclid=IwAR2ztMPOozEv73yiealZhMOg2SmUCFnrixWwv7HAq5cW6s4yPAGge3-DeCM
+-http://kunalpachauri.co.in/pathway-to-oscp.html?fbclid=IwAR04ADDHsHdImz1Dyqcr7Mw_5P_bOaniPaJu51MnwfAdjCXuB8wNz5cYiw4
+-https://github.com/RustyShackleford221/OSCP-Prep?fbclid=IwAR1hNnWjDxiI-pdsC2HJAtpXJ9-Ks0MTKczxqRbKmm0tjoRAB3dH2N0lrWs
 -https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html?fbclid=IwAR2QPj9lOJpR1OeQqhtlYjzyiCHxTtYEvMzea3zKDzgesWTLc6mNyxk0aHQ
 -http://0xc0ffee.io/blog/OSCP-Goldmine?fbclid=IwAR2--FYsZo77AzCQ_F8EZqROHppPe6RAWUtskZ-pQkRrk-XZhlp7JmeUcEg
 -https://www.keiththome.com/oscp-course-review/?fbclid=IwAR239djLDCKmGkWpGST2D0WKA7rVeCUSoZoHnN660vwX5RqhbPmNagN1AQk
@@ -113,7 +133,11 @@
 --https://www.udemy.com/ethical-hacking-beginners-to-expert-level-kali-linux-tutorial/?couponCode=FBFREE001&fbclid=IwAR3B6jvs7saCQqH1SgqeYpN6sRGUzJnPDt3k1uTKPd9c_YS1crI2ZItqbgU
 -https://www.reddit.com/r/HowToHack/comments/b1486v/zero_to_hero_a_practical_network_pentesting/
 
+#steganography
+-https://0xrick.github.io/lists/stego/?fbclid=IwAR3YCShRT6XOQSbky1H36XBexeaAncFPtSc0VoMOZOp2JK9YcqPy76tNAy4
+
 #penetration testing
+-https://www.linkedin.com/pulse/how-break-penetration-testing-lawrence-munro/?fbclid=IwAR2QTXANG0VhDKwNpdeOtKAPAueHCAg4c-fwrWYTNxGwTgoKAzBjTQDjIKQ
 -https://github.com/enaqx/awesome-pentest?fbclid=IwAR1q5yN4WfB_5brIldL1LY2fRD0O9iECZ0KEsDotaLtJ5fk9Qx3QyqyopDQ
 -https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/?fbclid=IwAR1GLvx8Cr8A7NYwpPRE5CKkSD6vKFLsuNgEUYaPUFSZZVJkrL0rxIxBe94
 -https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/?fbclid=IwAR0QK_U09B1mhNSjpHP56TW8g8ExXRZENGaFqVXLZdzkhaCWhEksCZ6s5x8
@@ -140,6 +164,7 @@
 -https://www.kinniyalibrary.com/?fbclid=IwAR3Z9_T9pBA34VuwFvsNedFZnu-LGdIkJzaQf5WvkOYOLqzfGXNjL36BC60
 
 #web application
+-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master?fbclid=IwAR3-X7ZjDicl__C2Zq1dIWJ7tQ7lsnWfIGLgc7FAgX0wh4qSnEUeLGDvSjI
 -https://github.com/minimaxir/big-list-of-naughty-strings?fbclid=IwAR0vAybYceatG1wujdiB9k0-KhCtOAMhDycRb0jTmW-wvvOA3pNEKMksP8k
 -https://n0where.net/php-webshells?fbclid=IwAR27-1MYEkojrxofzE1DHFCihLeJcgcIUhBRGTQVQV2Jz-rN0cugkvdvaIE
 -https://gbhackers.com/web-application-penetration-testing-checklist-a-detailed-cheat-sheet/
@@ -154,6 +179,7 @@
 -https://netsec.ws/?p=331&fbclid=IwAR3D_du_PKB0E0dB_M3BobttN3YzLUV5ae1I1kjpjfbGZlLuF0o2oZN7BnU
 
 #red teaming
+-https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17?fbclid=IwAR0-ynimomdYAUx6MSA293GwRTJfHaYulsfnFlKVmCILeYjHoyVKdP33U1g
 -https://github.com/yeyintminthuhtut/Awesome-Red-Teaming?fbclid=IwAR1oxHbvqs6E2VwVwJjsMzRn9ln_faA5mJ-KwFYEBlPhhKRBpL7slAkZ1R4
 -https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md?fbclid=IwAR3eenVGF-dCquu4WhgM3sQ7Q-MDujEq-CRxw-TsGxu4mlm6tqdFLIhkCaQ
 -https://www.peerlyst.com/posts/the-red-team-guide-chapter-20-attacking-linux-unix-environments-chiheb-chebbi?utm_source=linkedin&utm_medium=Application_Share&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post
@@ -162,6 +188,7 @@
 
 #sysadmin
 -https://github.com/trimstray/test-your-sysadmin-skills?fbclid=IwAR30T_eIudg7y1kLVftUWEaGNK3M7zNXjDw_OJI-lkNLuXti8wPxt-GBrYs#simple-questions
+-https://www.udemy.com/draft/1845852/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-PE6GGymDtqcLyuaic8kqjQ&fbclid=IwAR2XLLOiIEtOFBhVFV8rSUybSDsDFvNkVZDo4tpK0aqScGOxxS26Ma6CcLY
 
 #microsoft macros
 -https://github.com/mwrlabs/wePWNise?fbclid=IwAR17fns6AhI6QqRPwQJ8dHr7WlkTkNdI9uGjEpC-NISLdRHPMDO2i-DYgFw
@@ -180,3 +207,6 @@
 
 #mobile hacking
 -https://gbhackers.com/android-penetration-android-checklist/
+
+#SANS
+-https://mega.nz/?fbclid=IwAR1LuLW9LlfNs69QPW2OY8ctW5a9L8UgFCOPdksWIVuVrM_4jvX-fW9TuWo#F!NsdFhSYY!z-ecu4lbJkEKI5VVxe9-TA!gsVxCA6Z
