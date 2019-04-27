@@ -37,13 +37,16 @@
 -https://github.com/byt3bl33d3r/DeathStar?fbclid=IwAR2BsthMpmXbXdW_byc-ap7wYp84IMW4t2WB0HRp7Icb6pkwu9um2IRlfug
 -https://www.prodefence.org/active-directory-penetration-testing-checklist/?fbclid=IwAR2fltKMYqN-_bBK6eTU5OzULx9vIyFLGc0SA-nnxLmRI9HwMIgNnNQKLOg
 -https://www.prodefence.org/bloodhound-v2-0-5-released-active-directory-toolkit/?fbclid=IwAR22U2C_h-Up6yz55cZWJ-sok3yh_mXBGkVe3pu7B-k2hFEe6XVYA6LZILM
+-https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/?fbclid=IwAR2JTXDwZ99sl9Dx0InaVnP73uJpY9CvSQ6orfIjwoaXUGudMRQ7Ya9PE2Q
 
 #SQL injection
 -http://securityidiots.com/Web-Pentest/SQL-Injection/Part-1-Basic-of-SQL-for-SQLi.html?fbclid=IwAR2SxFy1jYBEr0GL_L3p_mSivlka-wFp73u0UOwb98JfPGabeFN9Oj8YjjA
 -https://www.youtube.com/watch?v=9Rrrm0JsLVw&fbclid=IwAR3sg8BVMXO-3QlTfVp47TnFND_BUYmuEK6o9t62uXRwYT7QUP0demdYKdc
 -https://gbhackers.com/perform-manual-sql-injection-2/?fbclid=IwAR0ZnkvB51Kka3h837U_o_wTNzfRQLhLcjMhbjoIn82MViIWCr7I67NdJGk
+-https://gbhackers.com/sqlmap-detecting-exploiting-sql-injection/?fbclid=IwAR35PJlLeYpSOWxuTUhJlzJjDtGkSOkOh4uv0s7plowVkkqNF2ELqa04pc4
 
 #wireless penetration
+-https://www.prodefence.org/ht-wps-breaker-high-touch-wps-breaker/?fbclid=IwAR3d4IV6wRHoGuN5e53F7HxpPnuQtS24lDk1ATE71IGSdi3464IhPuJfxu0
 -https://www.udemy.com/wifi-hacking-from-a-penetration-testers-perspective/?couponCode=FINAL_FB_GIVEAWAY&fbclid=IwAR0rUXuZiZOGyZEjF1A-MDIZsSLrzmkEzjlBULd2Wkd_bGASx3UiFe9G26c
 -https://gbhackers.com/wireless-penetration-testing-checklist-a-detailed-cheat-sheet/?fbclid=IwAR37j40vqsPTrsd9EIudKNKrewVFMX-TjR8wNwVu4V9qYt5EfkFMp7WdwbQ
 -https://www.shellvoide.com/wifi/how-to-perform-automated-wifi-wpa-wpa2-cracking/?fbclid=IwAR27K6O4bO9hZ97lz_8DN6fc3cwddlFYM54Trr5xCzP8usX2lEbUWQ386y4
@@ -80,6 +83,7 @@
 -https://stacktrac3.co/vulnserver-write-up/?fbclid=IwAR1ytECmHB9QZZTochAt9YVMBKge43ifX1Q9PxlCPahP1dOQEXAU-RnPZgE
 
 #OSCP notes
+-https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html?fbclid=IwAR2QPj9lOJpR1OeQqhtlYjzyiCHxTtYEvMzea3zKDzgesWTLc6mNyxk0aHQ
 -http://0xc0ffee.io/blog/OSCP-Goldmine?fbclid=IwAR2--FYsZo77AzCQ_F8EZqROHppPe6RAWUtskZ-pQkRrk-XZhlp7JmeUcEg
 -https://www.keiththome.com/oscp-course-review/?fbclid=IwAR239djLDCKmGkWpGST2D0WKA7rVeCUSoZoHnN660vwX5RqhbPmNagN1AQk
 -https://www.netmux.com/blog/purple-rain-attack?fbclid=IwAR1d8hN94aQSQ3ARujn8W3H7NS03phoaFtaKtA3KxtzQhKpbFCeH1uWoVl8
@@ -91,6 +95,7 @@
 -https://github.com/mohitkhemchandani/OSCP-Complete-Guide?fbclid=IwAR061y9Sn7qFpv0Lyn8NCPfAagxD1xbcq8-zWnj0S7StQk8SNBJiRLKwnHI
 
 #CTF 
+-https://blog.kartone.ninja/2019/03/25/when-a-reverse-me-ctf-binary-makes-you-loose-that-job/?fbclid=IwAR0BUrBkePDs3vYdtNLALhmmFrfBkoUdBUEtbRmdVvYbjidVfQzqCenZvuY
 -https://mrt
 -https://gtfobins.github.io/gtfobins/whois/?fbclid=IwAR2BGMKkGj6FDit8h20UwvybkYMsFOmd17mt9ryB2u7pwQtwiC0L5e7ZzcY
 -https://github.com/swisskyrepo/PayloadsAllTheThings?fbclid=IwAR0HOZxovFMKbW7eqZvByT_Wh_nqlNIs7b9X4XT7S13kuBniAoBgk1c2lio
@@ -106,6 +111,7 @@
 #ethical hacking free courses
 -https://mega.nz/?fbclid=IwAR28CDUlL44S0jKSViOL2A3TTj5XlJxbgrMu25xqN795EHq3J0vHU2VLfFo#F!BtZAjJIR!nek_MMo14Z_3_D_OLT5hsw
 --https://www.udemy.com/ethical-hacking-beginners-to-expert-level-kali-linux-tutorial/?couponCode=FBFREE001&fbclid=IwAR3B6jvs7saCQqH1SgqeYpN6sRGUzJnPDt3k1uTKPd9c_YS1crI2ZItqbgU
+-https://www.reddit.com/r/HowToHack/comments/b1486v/zero_to_hero_a_practical_network_pentesting/
 
 #penetration testing
 -https://github.com/enaqx/awesome-pentest?fbclid=IwAR1q5yN4WfB_5brIldL1LY2fRD0O9iECZ0KEsDotaLtJ5fk9Qx3QyqyopDQ
