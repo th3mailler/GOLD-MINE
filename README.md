@@ -4,6 +4,7 @@
 
 
 #linux privilege escaltion
+-https://github.com/lukechilds/reverse-shell?fbclid=IwAR1wtIK7rCi5Bd8-mbhV26dIQRjQvwsCjgWNEOH30JGC146_lOr2oLmpfYQ
 -https://gtfobins.github.io/?fbclid=IwAR1bDDxPEW_hCuc7NEIdrOGZQeXGF1d3IowpoSgafYvkSgSGSjuu1bFimPg
 -https://www.exploit-db.com/exploits/44298/?fbclid=IwAR3WLH81B-zz7NeMdCVhAg_y7pv_iwCMuqbjnWpaFXRatQwoNFuqcMK-9a8
 -https://guif.re/linuxeop?fbclid=IwAR1S2fxnHcMyTuOZFYoZb55AJmHQ-MYTuOQpPsJFotW7HvmKRqpf7Ml9wTM
@@ -18,6 +19,7 @@
 -https://latesthackingnews.com/2018/12/12/privilegeesc-linux-open-source-script-for-enumeration-on-linux/?fbclid=IwAR2r8kyTgDtO8SfadJvx7sJdE92zmsMeqY56ZDptKhQdtKtiawDoREnAecE
 
 #windows privilege escalation
+-http://www.fuzzysecurity.com/tutorials/16.html?fbclid=IwAR38XtFqjVyXRVmo59ewqVNQ_qpkzLJSLroiO8BLwuhz85q8PJs1ZGw_eXo
 -https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR1n1cs1dBadliOVI4iO7po3WmgS8hP4kBBGDXCl-ozy0F7tCOM5QAGOa4M
 -https://www.prodefence.org/multiple-ways-to-exploiting-windows-pc-using-powershell-empire/?fbclid=IwAR2dIQ6XA_9DRq9MM7HnmNtwF2S3R2NuRs77qE3lZtwa8XxN5yTInewQbCo
 -https://www.youtube.com/watch?v=9pwMCHlNma4&feature=youtu.be
@@ -31,11 +33,13 @@
 -https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment
 
 #windows eploit
+-https://medium.com/red-team/dde-payloads-16629f4a2fcd?fbclid=IwAR2J2eZtjDgdFjLeM9i1rM3LXNA_0tQy954buNK4pE_fdZRHcXP11qnGYBk
 -https://lolbas-project.github.io/?fbclid=IwAR1ATzHrj4irpV_DPldBiglF2pE7Cnb6mO7J2jFbehWGy1ROCH7wLpvCv_E#
 -https://www.prodefence.org/a-little-guide-to-smb-enumeration/?fbclid=IwAR0zi10rUUoPBSfGlPA7OmGQXJRW07IOUn3k0XyyX63hVr_0GnGZvTiYlCY
 -https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
 
 #windows active directory
+-https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e?fbclid=IwAR0fhqNC9zUE05qub6Pl_y8SA9WM_RYiaUPU9fw7lAIZYHIyS8-Dn70hqkw
 -http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/?fbclid=IwAR3wMtmiZxPU9wiEerLH79Y05Xx_UAgQvqxhILtQ7rUE4GPjbOW8D6qkuPc
 -https://www.slideshare.net/rootedcon/carlos-garca-pentesting-active-directory?fbclid=IwAR3AWoY0ewoV4H-t0Troy_HtuI6Begy2aGpzKns9_Nfawzt1CcHPEJ9thnk
 -https://github.com/infosecn1nja/AD-Attack-Defense?fbclid=IwAR1Q1nf4tkY3OxhNU8VzAbdDPNASffMuhmfx3IdemN2h5nVqNRj2leh-f8A
@@ -152,6 +156,8 @@
 -https://blog.eccouncil.org/6-ways-to-be-a-better-pen-tester-part-1/?fbclid=IwAR0y-g26kcaorSjdMebwmt474uvJJdLRRDEiELUQawCkF6K9jhVf0sqabFI
 
 #windows evasion / bypassing AV
+-https://github.com/nccgroup/Winpayloads?fbclid=IwAR3tqJ5W3w7R8lSTIU_54riWHecVZy2QXbxQarPL_5JSZbTBaFMjXD2w8ds
+-https://null-byte.wonderhowto.com/how-to/hacking-windows-10-create-undetectable-payload-part-1-bypassing-antivirus-software-0185055/
 -https://gbhackers.com/malicious-payload-evasion-techniques/?fbclid=IwAR09baVu0CZRJCv9HkuPaUTu2wbhL3RZiwGkz667Q66P6fblW2qtlVpb8xM
 -http://www.powershellempire.com/?page_id=149&fbclid=IwAR2_slvmYwJsiBt6o8zB8GHthCK2178i_5pPlGCkhhQvC272Bcendxc5Alg
 -https://gbhackers.com/bypassing-an-antivirus/?fbclid=IwAR2k_yi7AQGfDzNlhvHx-azLqueL6RRMVFpmgQYgapvl-92UQcoTIr17LAk
