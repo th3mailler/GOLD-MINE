@@ -39,6 +39,8 @@
 -https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
 
 #windows active directory
+-http://www.kalitut.com/2019/04/hacking-windows-active-directory-full.html?fbclid=IwAR3Iz1sk_2W0DLh2Kjz9Iof-UkH5jhY8Gj9O0y1DST-dhK7-tMYi63wPam4
+-https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/?fbclid=IwAR2V2-ZblQ55VG7DkrxTTIE9QltWlSuC-mKZhOoMTOwWHGERRY5BOpds-i4
 -https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e?fbclid=IwAR0fhqNC9zUE05qub6Pl_y8SA9WM_RYiaUPU9fw7lAIZYHIyS8-Dn70hqkw
 -http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/?fbclid=IwAR3wMtmiZxPU9wiEerLH79Y05Xx_UAgQvqxhILtQ7rUE4GPjbOW8D6qkuPc
 -https://www.slideshare.net/rootedcon/carlos-garca-pentesting-active-directory?fbclid=IwAR3AWoY0ewoV4H-t0Troy_HtuI6Begy2aGpzKns9_Nfawzt1CcHPEJ9thnk
