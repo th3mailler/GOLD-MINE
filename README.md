@@ -33,6 +33,7 @@
 -https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment
 
 #windows eploit
+-https://github.com/outflanknl/EvilClippy?fbclid=IwAR1st90HlUpqbOweGlyCuAKRYHV4cx3KaAyaQ-Fzb2VmKuMNExgCQZ2M8K0
 -https://medium.com/red-team/dde-payloads-16629f4a2fcd?fbclid=IwAR2J2eZtjDgdFjLeM9i1rM3LXNA_0tQy954buNK4pE_fdZRHcXP11qnGYBk
 -https://lolbas-project.github.io/?fbclid=IwAR1ATzHrj4irpV_DPldBiglF2pE7Cnb6mO7J2jFbehWGy1ROCH7wLpvCv_E#
 -https://www.prodefence.org/a-little-guide-to-smb-enumeration/?fbclid=IwAR0zi10rUUoPBSfGlPA7OmGQXJRW07IOUn3k0XyyX63hVr_0GnGZvTiYlCY
