@@ -4,6 +4,7 @@
 
 
 #linux privilege escaltion
+-https://www.securitynewspaper.com/2018/04/25/proper-use-sudo-linux-privilege-escalation/?fbclid=IwAR22ZkLVZWDZPfjexuK9fntrwbiEKvRRN65hIgH4Yqo0gZE3EHaBZZSAX9s
 -https://github.com/lukechilds/reverse-shell?fbclid=IwAR1wtIK7rCi5Bd8-mbhV26dIQRjQvwsCjgWNEOH30JGC146_lOr2oLmpfYQ
 -https://gtfobins.github.io/?fbclid=IwAR1bDDxPEW_hCuc7NEIdrOGZQeXGF1d3IowpoSgafYvkSgSGSjuu1bFimPg
 -https://www.exploit-db.com/exploits/44298/?fbclid=IwAR3WLH81B-zz7NeMdCVhAg_y7pv_iwCMuqbjnWpaFXRatQwoNFuqcMK-9a8
