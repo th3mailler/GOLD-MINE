@@ -138,7 +138,7 @@
 -https://hackingvision.com/2018/03/15/hacking-books-pdf-collection-2018/?fbclid=IwAR1MIWPL_u9e1UWl2o_T4jgWAoO8xpPdSqGypCLD-8S-qIt43Be-Url-0Es
 -https://github.com/robertcanare/Study-File
 -https://comindt.blogspot.com/2019/01/linux-book-4.html?fbclid=IwAR2m-HmW5Nq5nu2wpeg73tTdrOxUPemzJGDO1KUVkWfhsPvOaKHVxn2AY-w
-
+-https://mega.nz/?fbclid=IwAR3FVBUitfEV7Kk1YiO4wyiUbVPPv16KjYNRNCD0Bdt8NVFXJX2wuGb4yFw#F!WUg2zIgI!Jrl_0ILGnqkNrC0XP40Ccg
 #ethical hacking free courses
 -https://mega.nz/?fbclid=IwAR28CDUlL44S0jKSViOL2A3TTj5XlJxbgrMu25xqN795EHq3J0vHU2VLfFo#F!BtZAjJIR!nek_MMo14Z_3_D_OLT5hsw
 --https://www.udemy.com/ethical-hacking-beginners-to-expert-level-kali-linux-tutorial/?couponCode=FBFREE001&fbclid=IwAR3B6jvs7saCQqH1SgqeYpN6sRGUzJnPDt3k1uTKPd9c_YS1crI2ZItqbgU
