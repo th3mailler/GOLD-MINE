@@ -3,56 +3,99 @@
 	###########################################
 
 
-#linux privilege escaltion
--https://www.securitynewspaper.com/2018/04/25/proper-use-sudo-linux-privilege-escalation/?fbclid=IwAR22ZkLVZWDZPfjexuK9fntrwbiEKvRRN65hIgH4Yqo0gZE3EHaBZZSAX9s
--https://github.com/lukechilds/reverse-shell?fbclid=IwAR1wtIK7rCi5Bd8-mbhV26dIQRjQvwsCjgWNEOH30JGC146_lOr2oLmpfYQ
--https://gtfobins.github.io/?fbclid=IwAR1bDDxPEW_hCuc7NEIdrOGZQeXGF1d3IowpoSgafYvkSgSGSjuu1bFimPg
--https://www.exploit-db.com/exploits/44298/?fbclid=IwAR3WLH81B-zz7NeMdCVhAg_y7pv_iwCMuqbjnWpaFXRatQwoNFuqcMK-9a8
--https://guif.re/linuxeop?fbclid=IwAR1S2fxnHcMyTuOZFYoZb55AJmHQ-MYTuOQpPsJFotW7HvmKRqpf7Ml9wTM
--https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
--https://hackingandsecurity.blogspot.com/2017/09/oscp-linux-priviledge-escalation.html?m=
--https://github.com/Kabot/LinEnum?fbclid=IwAR0u_1DRK6WSzjd9G9QXWHMLSowsgMCcebg2Gtt0by-gMSZeG909ePMnsDs
--https://www.exploit-db.com/exploits/45175/
--https://github.com/xairy/kernel-exploits/blob/master/CVE-2017-1000112/poc.c?fbclid=IwAR1Clh7cnBqOLYkPjBmx9Idy9Z8NmFS4NJxwotX-8dsZOcBmboLmpuBBBAk
--https://securingtomorrow.mcafee.com/mcafee-labs/linux-kernel-vulnerability-can-lead-to-privilege-escalation-analyzing-cve-2017-1000112/?fbclid=IwAR1s_QDQu68-x7i_lCjnYkLh1obrx4RMC7t4Z-u4kAzra0iodABV_vvX6NQ
--https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR0A0HAziFZVgl2RU_em1nvRF-YmEKfOspH3KRP04rGmy7z2IXm5KZ0RyMM
--https://github.com/xairy/linux-kernel-exploitation?fbclid=IwAR0um6G67BVPKkwQ4OWNA6GRRnOYhKzQoQm40zGj4Dh-OizIRKMiPWfV_p4
--https://latesthackingnews.com/2018/12/12/privilegeesc-linux-open-source-script-for-enumeration-on-linux/?fbclid=IwAR2r8kyTgDtO8SfadJvx7sJdE92zmsMeqY56ZDptKhQdtKtiawDoREnAecE
+#1->linux privilege escaltion
 
-#windows privilege escalation
--http://www.fuzzysecurity.com/tutorials/16.html?fbclid=IwAR38XtFqjVyXRVmo59ewqVNQ_qpkzLJSLroiO8BLwuhz85q8PJs1ZGw_eXo
--https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR1n1cs1dBadliOVI4iO7po3WmgS8hP4kBBGDXCl-ozy0F7tCOM5QAGOa4M
--https://www.prodefence.org/multiple-ways-to-exploiting-windows-pc-using-powershell-empire/?fbclid=IwAR2dIQ6XA_9DRq9MM7HnmNtwF2S3R2NuRs77qE3lZtwa8XxN5yTInewQbCo
--https://www.youtube.com/watch?v=9pwMCHlNma4&feature=youtu.be
--https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/?fbclid=IwAR39P6CyPdcb67Cs8BtU6afQpeLREUtRw_DAsqEjnjjDv5t0kYNBQkM4aVs
--https://github.com/hausec/ADAPE-Script/tree/master?fbclid=IwAR0Rknful54lmO7gfM59yksrjSPYeLMmDsQyulz_EaFiZlXlHAZAaMWHjZQ
--https://github.com/OneLogicalMyth/zeroday-powershell?fbclid=IwAR3H7rHz-R2omfIVycOBAJ0S66atEWlhBCc3cJX65l6kxadCPgPMcXs7vsY
--https://github.com/hausec/ADAPE-Script/tree/master?fbclid=IwAR196t8_BgX-S_r6cUsDNnB0X1LhtH1NNWVA8D00Cu5CHB7pt_mvuQdQLj4
--https://github.com/ExpLife0011/awesome-windows-kernel-security-development?fbclid=IwAR2vObtRf4zDLPOgi0D4P0ddfW5TjrPWeEHnN4-VO03-tHgGAGSTN5MvdcU
--https://hunter2.gitbook.io/darthsidious/privilege-escalation/alpc-bug-0day
--https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
--https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment
+i. https://www.securitynewspaper.com/2018/04/25/proper-use-sudo-linux-privilege-escalation/?fbclid=IwAR22ZkLVZWDZPfjexuK9fntrwbiEKvRRN65hIgH4Yqo0gZE3EHaBZZSAX9s
+
+ii.https://github.com/lukechilds/reverse-shell?fbclid=IwAR1wtIK7rCi5Bd8-mbhV26dIQRjQvwsCjgWNEOH30JGC146_lOr2oLmpfYQ
+
+iii.https://gtfobins.github.io/?fbclid=IwAR1bDDxPEW_hCuc7NEIdrOGZQeXGF1d3IowpoSgafYvkSgSGSjuu1bFimPg
+
+iv. https://www.exploit-db.com/exploits/44298/?fbclid=IwAR3WLH81B-zz7NeMdCVhAg_y7pv_iwCMuqbjnWpaFXRatQwoNFuqcMK-9a8
+
+v. https://guif.re/linuxeop?fbclid=IwAR1S2fxnHcMyTuOZFYoZb55AJmHQ-MYTuOQpPsJFotW7HvmKRqpf7Ml9wTM
+
+vi. https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+vii. https://hackingandsecurity.blogspot.com/2017/09/oscp-linux-priviledge-escalation.html?m=
+
+viii. https://github.com/Kabot/LinEnum?fbclid=IwAR0u_1DRK6WSzjd9G9QXWHMLSowsgMCcebg2Gtt0by-gMSZeG909ePMnsDs
+
+ix. https://www.exploit-db.com/exploits/45175/
+
+x. https://github.com/xairy/kernel-exploits/blob/master/CVE-2017-1000112/poc.c?fbclid=IwAR1Clh7cnBqOLYkPjBmx9Idy9Z8NmFS4NJxwotX-8dsZOcBmboLmpuBBBAk
+
+xi. https://securingtomorrow.mcafee.com/mcafee-labs/linux-kernel-vulnerability-can-lead-to-privilege-escalation-analyzing-cve-2017-1000112/?fbclid=IwAR1s_QDQu68-x7i_lCjnYkLh1obrx4RMC7t4Z-u4kAzra0iodABV_vvX6NQ
+
+xii. https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR0A0HAziFZVgl2RU_em1nvRF-YmEKfOspH3KRP04rGmy7z2IXm5KZ0RyMM
+
+xiii. https://github.com/xairy/linux-kernel-exploitation?fbclid=IwAR0um6G67BVPKkwQ4OWNA6GRRnOYhKzQoQm40zGj4Dh-OizIRKMiPWfV_p4
+
+xiv. https://latesthackingnews.com/2018/12/12/privilegeesc-linux-open-source-script-for-enumeration-on-linux/?fbclid=IwAR2r8kyTgDtO8SfadJvx7sJdE92zmsMeqY56ZDptKhQdtKtiawDoREnAecE
+
+#2->windows privilege escalation
+
+i. http://www.fuzzysecurity.com/tutorials/16.html?fbclid=IwAR38XtFqjVyXRVmo59ewqVNQ_qpkzLJSLroiO8BLwuhz85q8PJs1ZGw_eXo
+
+ii. https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html?fbclid=IwAR1n1cs1dBadliOVI4iO7po3WmgS8hP4kBBGDXCl-ozy0F7tCOM5QAGOa4M
+
+iii. https://www.prodefence.org/multiple-ways-to-exploiting-windows-pc-using-powershell-empire/?fbclid=IwAR2dIQ6XA_9DRq9MM7HnmNtwF2S3R2NuRs77qE3lZtwa8XxN5yTInewQbCo
+
+iv. https://www.youtube.com/watch?v=9pwMCHlNma4&feature=youtu.be
+
+v. https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/?fbclid=IwAR39P6CyPdcb67Cs8BtU6afQpeLREUtRw_DAsqEjnjjDv5t0kYNBQkM4aVs
+
+vi. https://github.com/hausec/ADAPE-Script/tree/master?fbclid=IwAR0Rknful54lmO7gfM59yksrjSPYeLMmDsQyulz_EaFiZlXlHAZAaMWHjZQ
+
+vii. https://github.com/OneLogicalMyth/zeroday-powershell?fbclid=IwAR3H7rHz-R2omfIVycOBAJ0S66atEWlhBCc3cJX65l6kxadCPgPMcXs7vsY
+
+viii. https://github.com/hausec/ADAPE-Script/tree/master?fbclid=IwAR196t8_BgX-S_r6cUsDNnB0X1LhtH1NNWVA8D00Cu5CHB7pt_mvuQdQLj4
+
+ix. https://github.com/ExpLife0011/awesome-windows-kernel-security-development?fbclid=IwAR2vObtRf4zDLPOgi0D4P0ddfW5TjrPWeEHnN4-VO03-tHgGAGSTN5MvdcU
+
+x. https://hunter2.gitbook.io/darthsidious/privilege-escalation/alpc-bug-0day
+
+xi. https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+
+xii. https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment
 
 #windows eploit
--https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References?fbclid=IwAR2u0iuH_AAyw3YDNfRlNo9N053Riwgm1kCGugSgIovrCmB9i0CdP4zny1c
--https://github.com/outflanknl/EvilClippy?fbclid=IwAR1st90HlUpqbOweGlyCuAKRYHV4cx3KaAyaQ-Fzb2VmKuMNExgCQZ2M8K0
--https://medium.com/red-team/dde-payloads-16629f4a2fcd?fbclid=IwAR2J2eZtjDgdFjLeM9i1rM3LXNA_0tQy954buNK4pE_fdZRHcXP11qnGYBk
--https://lolbas-project.github.io/?fbclid=IwAR1ATzHrj4irpV_DPldBiglF2pE7Cnb6mO7J2jFbehWGy1ROCH7wLpvCv_E#
--https://www.prodefence.org/a-little-guide-to-smb-enumeration/?fbclid=IwAR0zi10rUUoPBSfGlPA7OmGQXJRW07IOUn3k0XyyX63hVr_0GnGZvTiYlCY
--https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
+
+i. https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References?fbclid=IwAR2u0iuH_AAyw3YDNfRlNo9N053Riwgm1kCGugSgIovrCmB9i0CdP4zny1c
+
+ii. https://github.com/outflanknl/EvilClippy?fbclid=IwAR1st90HlUpqbOweGlyCuAKRYHV4cx3KaAyaQ-Fzb2VmKuMNExgCQZ2M8K0
+
+iii. https://medium.com/red-team/dde-payloads-16629f4a2fcd?fbclid=IwAR2J2eZtjDgdFjLeM9i1rM3LXNA_0tQy954buNK4pE_fdZRHcXP11qnGYBk
+
+iv. https://lolbas-project.github.io/?fbclid=IwAR1ATzHrj4irpV_DPldBiglF2pE7Cnb6mO7J2jFbehWGy1ROCH7wLpvCv_E#
+
+v. https://www.prodefence.org/a-little-guide-to-smb-enumeration/?fbclid=IwAR0zi10rUUoPBSfGlPA7OmGQXJRW07IOUn3k0XyyX63hVr_0GnGZvTiYlCY
+
+vi. https://github.com/PowerShellMafia/PowerSploit?fbclid=IwAR1GCKh1DDpV6nfKabv_weHoepEByp61g1EEM7Qpipmpe_2f7ZsP-TcAeas
 
 #windows active directory
--http://www.kalitut.com/2019/04/hacking-windows-active-directory-full.html?fbclid=IwAR3Iz1sk_2W0DLh2Kjz9Iof-UkH5jhY8Gj9O0y1DST-dhK7-tMYi63wPam4
--https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/?fbclid=IwAR2V2-ZblQ55VG7DkrxTTIE9QltWlSuC-mKZhOoMTOwWHGERRY5BOpds-i4
--https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e?fbclid=IwAR0fhqNC9zUE05qub6Pl_y8SA9WM_RYiaUPU9fw7lAIZYHIyS8-Dn70hqkw
--http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/?fbclid=IwAR3wMtmiZxPU9wiEerLH79Y05Xx_UAgQvqxhILtQ7rUE4GPjbOW8D6qkuPc
--https://www.slideshare.net/rootedcon/carlos-garca-pentesting-active-directory?fbclid=IwAR3AWoY0ewoV4H-t0Troy_HtuI6Begy2aGpzKns9_Nfawzt1CcHPEJ9thnk
--https://github.com/infosecn1nja/AD-Attack-Defense?fbclid=IwAR1Q1nf4tkY3OxhNU8VzAbdDPNASffMuhmfx3IdemN2h5nVqNRj2leh-f8A
--https://github.com/byt3bl33d3r/DeathStar?fbclid=IwAR2BsthMpmXbXdW_byc-ap7wYp84IMW4t2WB0HRp7Icb6pkwu9um2IRlfug
--https://www.prodefence.org/active-directory-penetration-testing-checklist/?fbclid=IwAR2fltKMYqN-_bBK6eTU5OzULx9vIyFLGc0SA-nnxLmRI9HwMIgNnNQKLOg
--https://www.prodefence.org/bloodhound-v2-0-5-released-active-directory-toolkit/?fbclid=IwAR22U2C_h-Up6yz55cZWJ-sok3yh_mXBGkVe3pu7B-k2hFEe6XVYA6LZILM
--https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/?fbclid=IwAR2JTXDwZ99sl9Dx0InaVnP73uJpY9CvSQ6orfIjwoaXUGudMRQ7Ya9PE2Q
--https://github.com/Ridter/Exchange2domain?fbclid=IwAR3LvhEVqUn_cqyj9DdMvYAPUkEomuXWKI2FX1jVcgXf5tpwb2MYt3Rx6kM
+
+i. http://www.kalitut.com/2019/04/hacking-windows-active-directory-full.html?fbclid=IwAR3Iz1sk_2W0DLh2Kjz9Iof-UkH5jhY8Gj9O0y1DST-dhK7-tMYi63wPam4
+
+ii. https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/?fbclid=IwAR2V2-ZblQ55VG7DkrxTTIE9QltWlSuC-mKZhOoMTOwWHGERRY5BOpds-i4
+
+iii. https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e?fbclid=IwAR0fhqNC9zUE05qub6Pl_y8SA9WM_RYiaUPU9fw7lAIZYHIyS8-Dn70hqkw
+
+iv. http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/?fbclid=IwAR3wMtmiZxPU9wiEerLH79Y05Xx_UAgQvqxhILtQ7rUE4GPjbOW8D6qkuPc
+
+v. https://www.slideshare.net/rootedcon/carlos-garca-pentesting-active-directory?fbclid=IwAR3AWoY0ewoV4H-t0Troy_HtuI6Begy2aGpzKns9_Nfawzt1CcHPEJ9thnk
+
+vi. https://github.com/infosecn1nja/AD-Attack-Defense?fbclid=IwAR1Q1nf4tkY3OxhNU8VzAbdDPNASffMuhmfx3IdemN2h5nVqNRj2leh-f8A
+
+vii. https://github.com/byt3bl33d3r/DeathStar?fbclid=IwAR2BsthMpmXbXdW_byc-ap7wYp84IMW4t2WB0HRp7Icb6pkwu9um2IRlfug
+
+viii. https://www.prodefence.org/active-directory-penetration-testing-checklist/?fbclid=IwAR2fltKMYqN-_bBK6eTU5OzULx9vIyFLGc0SA-nnxLmRI9HwMIgNnNQKLOg
+
+ix. https://www.prodefence.org/bloodhound-v2-0-5-released-active-directory-toolkit/?fbclid=IwAR22U2C_h-Up6yz55cZWJ-sok3yh_mXBGkVe3pu7B-k2hFEe6XVYA6LZILM
+
+x. https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/?fbclid=IwAR2JTXDwZ99sl9Dx0InaVnP73uJpY9CvSQ6orfIjwoaXUGudMRQ7Ya9PE2Q
+
+xi. https://github.com/Ridter/Exchange2domain?fbclid=IwAR3LvhEVqUn_cqyj9DdMvYAPUkEomuXWKI2FX1jVcgXf5tpwb2MYt3Rx6kM
 
 #SQL injection
 -http://securityidiots.com/Web-Pentest/SQL-Injection/Part-1-Basic-of-SQL-for-SQLi.html?fbclid=IwAR2SxFy1jYBEr0GL_L3p_mSivlka-wFp73u0UOwb98JfPGabeFN9Oj8YjjA
